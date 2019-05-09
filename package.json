@@ -19,5 +19,8 @@
   "homepage": "https://github.com/KadeJ1/Sandbox2#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
   }
 }
